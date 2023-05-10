@@ -1,0 +1,8 @@
+name = "Gauss"
+uuid = "0b02e0fa-5eb2-4678-ab8c-57f0b774d3d3"
+authors = ["tillm "]
+version = "0.1.0"
+
+[deps]
+DynamicPolynomials = "7c1d4256-1411-5781-91ec-d7bc3513ac07"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
